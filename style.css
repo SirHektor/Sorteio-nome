@@ -38,9 +38,17 @@ label {
     padding: 5px ;
 }
 a {
+    margin-top: 10px;
     color: red;
     font: 200 10px minecraft, sans-serif;
 }
 .container {
     margin-top: 150px;
+}
+.entradas {
+    margin-left: 580px;
+}
+#sortear {
+    margin-top: 20px;
+    margin-left: 690px;
 }
