@@ -1,6 +1,21 @@
+@font-face {
+    font-family: minecraft;
+    src: url(Minecraft.ttf);
+}
+@font-face {
+    font-family: webcomic;
+    src: url(Webcomic.ttf);
+}
+
+
+
+
 h2 {
+    margin-top: 25px;
     display: flex;
     justify-content: center;
+    font-family: minecraft, sans-serif;
+    font: 500 30px;
 }
 .formularioContainer{
     display: flex;
@@ -16,7 +31,16 @@ a {
 }
 label {
     margin-right: 15px;
+    font-family: webcomic, sans-serif;
 }
 .sortear {
     margin-left: 15px;
+    padding: 5px ;
+}
+a {
+    color: red;
+    font: 200 10px minecraft, sans-serif;
+}
+.container {
+    margin-top: 150px;
 }
