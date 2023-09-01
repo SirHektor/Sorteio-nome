@@ -1,0 +1,22 @@
+h2 {
+    display: flex;
+    justify-content: center;
+}
+.formularioContainer{
+    display: flex;
+    justify-content: center; 
+}
+.resultado {
+    display: flex;
+    justify-content: center;
+}
+a {
+    display: flex;
+    justify-content: center;
+}
+label {
+    margin-right: 15px;
+}
+.sortear {
+    margin-left: 15px;
+}
